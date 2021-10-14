@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/414542714365935626/898306428492722207/foreseek.png)
+<div align="center"><img src="https://cdn.discordapp.com/attachments/414542714365935626/898306428492722207/foreseek.png" /></div>
 
 # What is foreseek?
 
