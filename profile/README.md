@@ -5,3 +5,7 @@
 **foreseek** is an org maintained by [S-Traut](https://github.com/S-Traut) and [Ballasi](https://github.com/Ballasi)
 
 Its primary use is to have a common place to work on projects we are both interested in working on.
+
+## Who we are?
+
+We're two friends that have been always motivated by the creation of tools and solutions, sometimes for fun, or utility purpose. We're interested in a lot of languages and technologies, but we have preferences for low-level development such as Rust / C.
